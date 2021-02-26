@@ -1,5 +1,9 @@
 # HousePriceAnalysis
 
+King County House Price Analysis
+
+Data from Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
+
 Analysed data
 
 Preprocessed data

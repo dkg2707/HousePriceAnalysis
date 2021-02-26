@@ -5,6 +5,8 @@ King County House Price Analysis
 Data from Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Analysed data
+        
+        2d plots, 3d plots, boxplots, scatterplots
 
 Preprocessed data
 
